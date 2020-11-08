@@ -1,1 +1,1 @@
-# js_study_group
+# JavaScript Study Group
